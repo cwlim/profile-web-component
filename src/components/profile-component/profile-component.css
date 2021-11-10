@@ -1,0 +1,9 @@
+:host {
+  display: block;
+}
+
+.profile {
+  border: 1px dashed orange;
+  width: fit-content;
+  padding: 5px;
+}
